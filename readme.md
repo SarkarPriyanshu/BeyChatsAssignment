@@ -78,7 +78,7 @@ Now, you're ready to run the project in the virtual environment!
     ```
 ## Screenshot
 
-![Screenshot](path/to/your/screenshot.png)
+![Screenshot](https://github.com/SarkarPriyanshu/BeyChatsAssignment/blob/main/Screenshot%202024-05-18%20154755.png)
 
 ## Contact
 
